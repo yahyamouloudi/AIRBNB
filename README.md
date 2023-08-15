@@ -1,24 +1,26 @@
-Full Stack Spotify Clone with Next.js 13.4 App Router: React, Tailwind, Supabase, PostgreSQL
-## Getting Started
+<h1>Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth </h1>
 
-Features:
+<h2> Features:</h2>
 
-Song upload
-Tailwind design for sleek UI
-Tailwind animations and transition effects
-Full responsiveness for all devices
-Credential authentication with Supabase
-Github authentication integration
-File and image upload using Supabase storage
-Client form validation and handling using react-hook-form
-Server error handling with react-toast
-Play song audio
-Favorites system
-Playlists / Liked songs system
-Advanced Player component
-How to write POST, GET, and DELETE routes in route handlers (app/api)
-How to fetch data in server React components by directly accessing the database (WITHOUT API! like Magic!)
-Handling relations between Server and Child components in a real-time environment
+Tailwind design<br/>
+Tailwind animations and effects<br/>
+Full responsiveness<br/>
+Credential authentication<br/>
+Google authentication<br/>
+Github authentication<br/>
+Image upload using Cloudinary CDN<br/>
+Client form validation and handling using react-hook-form<br/>
+Server error handling using react-toast<br/>
+Calendars with react-date-range<br/>
+Page loading state<br/>
+Page empty state<br/>
+Booking / Reservation system<br/>
+Creation and deletion of properties<br/>
+Pricing calculation<br/>
+Advanced search algorithm by category, date range, map location, number of guests, rooms and bathrooms<br/>
+How to write POST and DELETE routes in route handlers (app/api)<br/>
+How to fetch data in server react components by directly accessing database <br/>
+
 
 
 
